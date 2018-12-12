@@ -15,6 +15,9 @@ The Alien Beacon requires 12V DC power.
 
 When choosing the correct power rating for an LED strip, a good rule of thumb is to choose an adapter that is rated for 1A for every 300 pieces of 12V RGB LEDs.
 
+The Alien Beacon itself is rated at 120W (ie, 10A @12V) max.
+
+
 LEDs
 ====
 
