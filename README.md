@@ -1,7 +1,7 @@
 # AlienBeacon
 An RGB LED strip controller that runs color programs off an SD card.
 
-[![Watch the video](https://github.com/evankale/Blipper/blob/master/video.jpg?raw=true)](http://http://youtu.be/Ncz0Ewp892c)
+[![Watch the video](https://github.com/evankale/AlienBeacon/blob/master/video.jpg?raw=true)](http://http://youtu.be/Ncz0Ewp892c)
 
 Watch the video: http://youtu.be/Ncz0Ewp892c
 
