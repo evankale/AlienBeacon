@@ -3,13 +3,13 @@ An RGB LED strip controller that runs color programs off an SD card.
 
 [![Watch the video](https://github.com/evankale/AlienBeacon/blob/master/video.jpg?raw=true)](http://http://youtu.be/Ncz0Ewp892c)
 
-Watch the video: http://youtu.be/Ncz0Ewp892c
+[Click here to watch the video.](http://youtu.be/Ncz0Ewp892c "YouTube")
 
 Power
 ======
 
 The Alien Beacon requires 12V DC power.
-Like so, https://amzn.to/2PysluX
+[Like this one.](https://amzn.to/2PysluX "Amazon")
 
 5-16V works too, as long as the input power matches the requirement of the LED strip.
 
@@ -20,7 +20,7 @@ LEDs
 
 The default LED strip pin order is BRGV. Although, the channel order outputs can be set to any order using the Alien Bacon to create color programs.
 
-Here is an example of a 12V RGB LED strip: https://amzn.to/2EjsRLJ
+[Here is an example of a 12V RGB LED strip.](https://amzn.to/2EjsRLJ "Amazon")
 
 
 Customization
@@ -36,5 +36,5 @@ Frame delay - Sets the delay time between every frame.
 Preview - Hit Play to see a preview of the colors cycling.
 Save - Save the program to file, and choose the channel output order.
 
-A quick demo can be seen here: http://youtu.be/Ncz0Ewp892c
+[A quick demo can be seen here.](http://youtu.be/Ncz0Ewp892c "YouTube")
 
