@@ -38,3 +38,9 @@ Save - Save the program to file, and choose the channel output order.
 
 [A quick demo can be seen here.](https://youtu.be/Ncz0Ewp892c "YouTube")
 
+
+Default programs
+================
+
+Deleted those awful default color presets by accident and want them back?
+No sweat! You can find them in the [DefaultPrograms](https://github.com/evankale/AlienBeacon/tree/master/DefaultPrograms "Default presets") folder.
