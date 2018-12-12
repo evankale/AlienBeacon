@@ -27,7 +27,7 @@ Customization
 =============
 
 Custom color programs are created using the Alien Bacon.
-You can find and run the program in the AlienBacon/bin folder (or build from source in the AlienBacon/src folder).
+You can find and run the program in the [AlienBacon/bin](https://github.com/evankale/AlienBeacon/tree/master/AlienBacon/bin "Alien Bacon") folder (or build from source in the [AlienBacon/src](https://github.com/evankale/AlienBeacon/tree/master/AlienBacon/src "Source") folder).
 
 How to use:
 Image colors - Lets you choose an image to automatically pick out the dominant colors.
