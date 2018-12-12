@@ -1,9 +1,9 @@
 # AlienBeacon
 An RGB LED strip controller that runs color programs off an SD card.
 
-[![Watch the video](https://github.com/evankale/AlienBeacon/blob/master/video.jpg?raw=true)](http://http://youtu.be/Ncz0Ewp892c)
+[![Watch the video](https://github.com/evankale/AlienBeacon/blob/master/video.jpg?raw=true)](https://youtu.be/Ncz0Ewp892c)
 
-[Click here to watch the video.](http://youtu.be/Ncz0Ewp892c "YouTube")
+[Click here to watch the video.](https://youtu.be/Ncz0Ewp892c "YouTube")
 
 Power
 ======
@@ -36,5 +36,5 @@ Frame delay - Sets the delay time between every frame.
 Preview - Hit Play to see a preview of the colors cycling.
 Save - Save the program to file, and choose the channel output order.
 
-[A quick demo can be seen here.](http://youtu.be/Ncz0Ewp892c "YouTube")
+[A quick demo can be seen here.](https://youtu.be/Ncz0Ewp892c "YouTube")
 
