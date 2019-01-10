@@ -5,6 +5,16 @@ An RGB LED strip controller that runs color programs off an SD card.
 
 [Click here to watch the video.](https://youtu.be/Ncz0Ewp892c "YouTube")
 
+
+KIT Assembly Instructions
+=========================
+
+If you purchased the Alien Beacon KIT, then see this video for assembly instructions:
+[![Assembly video](https://github.com/evankale/AlienBeacon/blob/master/assemblyVideo.jpg?raw=true)](https://youtu.be/T1ApwpeDoYE)
+
+[KIT Assembly Instructions video.](https://youtu.be/T1ApwpeDoYE "YouTube")
+
+
 Power
 ======
 
