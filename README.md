@@ -10,9 +10,9 @@ KIT Assembly Instructions
 =========================
 
 If you purchased the Alien Beacon KIT, then see this video for assembly instructions:
-[![Assembly video](https://github.com/evankale/AlienBeacon/blob/master/assemblyVideo.jpg?raw=true)](https://youtu.be/T1ApwpeDoYE)
+[![Assembly video](https://github.com/evankale/AlienBeacon/blob/master/assemblyVideo.jpg?raw=true)](https://youtu.be/8XG-67_pEKo)
 
-[KIT Assembly Instructions video.](https://youtu.be/T1ApwpeDoYE "YouTube")
+[KIT Assembly Instructions video.](https://youtu.be/8XG-67_pEKo "YouTube")
 
 
 Power
